@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&random=false&width=1000&lines=Hello,+my+name+is+Letícia;I'm+graduating+in+Systems+Development;working+on+back-end+projects;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img widht="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leititcia&count_private=true&bg_color=0d1117&hide_border=true&title_color=4CAF50&show_icons=true&icon_color=4CAF50&text_color=FFF&hide_title=true">
-  <img widht="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leititcia&layout=compact&bg_color=0d1117&hide_border=true&title_color=fFFF&text_color=FFF&hide_title=true">
+  <img widht="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=Leititcia&count_private=true&bg_color=0d1117&hide_border=true&title_color=4CAF50&show_icons=true&icon_color=4CAF50&text_color=FFF&hide_title=true">
+  <img widht="41%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leititcia&layout=compact&bg_color=0d1117&hide_border=true&title_color=fFFF&text_color=FFF&hide_title=true">
 </div>
 
 <div align="center" style="display: inline_block">
-  <img align="center" height="50" widht="60" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
-  <img align="center" height="50" widht="60" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
-  <img align="center" height="50" widht="60" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-  <img align="center" height="50" widht="60" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  <img align="center" height="50" widht="60" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+  <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+  <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
+  <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+  <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+  <img align="center" height="30" widht="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
 </div>
 
 ##
